@@ -3,10 +3,10 @@ let RspyList = {
     SpyList: [
     
         {
-           1 Name: '【保护环境】CJ组队瓜分',
-            Script: 'feverrun_my_scripts/jd_cjzdgf.js',
+            Name: '【保护环境】loreal_10001签到',
+            Script: 'feverrun_my_scripts/jd_loreal_10001_ljqdysl.js',
             ListenEnv: [
-                'jd_cjhy_activityId',
+                'jd_loreal_10001_ljqdysl_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -14,10 +14,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          2  Name: '【保护环境】微定制',
-            Script: 'feverrun_my_scripts/jd_wdz.js',
+            Name: '【保护环境】lzkj_10001签到',
+            Script: 'feverrun_my_scripts/jd_lzkj_10001_ljqdcj.js',
             ListenEnv: [
-                'jd_wdz_activityId',
+                'jd_lzkj_10001_ljqdcj_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -25,10 +25,10 @@ let RspyList = {
             Disable: false,
         },
         {
-         3   Name: '【保护环境】微定制-开福袋',
-            Script: 'feverrun_my_scripts/jd_wdz_openLuckBag.js',
+            Name: '【保护环境】lzkj_10063翻牌抽大奖',
+            Script: 'everrun_my_scripts/jd_lzkj_10063_ffl.js',
             ListenEnv: [
-                'jd_wdz_openLuckBag_activityId',
+                'jd_lzkj_10063_ffl_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -102,10 +102,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          4  Name: '【保护环境】LZ组队瓜分',
-            Script: 'feverrun_my_scripts/jd_zdjr.js',
+            Name: '【保护环境】lzkj_10044投票有礼抽奖',
+            Script: 'feverrun_my_scripts/jd_lzkj_10044_tpyl.js',
             ListenEnv: [
-                'jd_zdjr_activityId',
+                'jd_lzkj_10044_tpyl_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -366,10 +366,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          6  Name: '【保护环境】lzkj_interactsaas加购有礼',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_jgyl.js',
+            Name: '【保护环境】lzkj_10053关注商品有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10053_gzspyl.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_jgyl_activityId',
+                'jd_lzkj_10053_gzspyl_activityId',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -377,10 +377,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          7  Name: '【保护环境】lzkj_interactsaas盖楼有礼',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_glyl.js',
+            Name: '【保护环境】lzkj_10040签到',
+            Script: 'feverrun_my_scripts/jd_lzkj_10040_qrqd.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_glyl_Ids',
+                'export jd_lzkj_10040_qrqd_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -388,10 +388,10 @@ let RspyList = {
             Disable: false,
         },
         {
-           8 Name: '【保护环境】lzkj_interactsaas日历签到',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_rlqd.js',
+            Name: '【保护环境】lzkj_10069关注店铺有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10069_gzyl.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_rlqd_Ids',
+                'jd_lzkj_10069_gzyl_activityId',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -399,10 +399,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          9  Name: '【保护环境】lzkj_interactsaas签到',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_qrqd.js',
+            Name: '【保护环境】lzkj_10038邀请好友帮砍价',
+            Script: 'feverrun_my_scripts/jd_lzkj_10038_lrkj.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_qrqd_Ids',
+                'jd_lzkj_10038_lrkj_activityId',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -410,10 +410,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          10  Name: '【保护环境】lzkj_interactsaas邀请好友入会',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_yqhyrh.js',
+            Name: '【保护环境】lzkj_10021大转盘抽奖',
+            Script: 'feverrun_my_scripts/jd_lzkj_10021_dazhuanpan.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_yqhyrh_activityId',
+                'jd_lzkj_10021_dazhuanpan_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -421,10 +421,10 @@ let RspyList = {
             Disable: false,
         },
         {
-         11   Name: '【保护环境】lzkj_interactsaas关注店铺有礼',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_gzyl.js',
+            Name: '【保护环境】lzkj_10033组队瓜分',
+            Script: 'feverrun_my_scripts/jd_lzkj_10033_zdgf.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_gzyl_activityId',
+                'jd_lzkj_10033_zdgf_Ids',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -432,10 +432,10 @@ let RspyList = {
             Disable: false,
         },
         {
-          12  Name: '【保护环境】lzkj_interactsaas关注商品有礼',
-            Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_gzspyl.js',
+            Name: '【保护环境】lzkj_10068邀请关注店铺有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10068_yqgzdpyl.js',
             ListenEnv: [
-                'jd_lzkj_interactsaas_gzspyl_activityId',
+                'jd_lzkj_10068_yqgzdpyl_activityId',
             ],
             TimeOut: 0,
             Interval: 0,
@@ -443,10 +443,109 @@ let RspyList = {
             Disable: false,
         },
         {
-          13  Name: '【保护环境lzkj邀请入会有礼',
-            Script: 'feverrun_my_scripts/jd_lzkj_interact_yqrhyl.js',
+            Name: '【保护环境】lzkj_10070邀请好友入会',
+            Script: 'feverrun_my_scripts/jd_lzkj_10070_yqhyrh.js',
             ListenEnv: [
-                'jd_lzkj_interact_yqrhyl_activityId',
+                'jd_lzkj_10070_yqhyrh_activityId',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10020九宫格抽奖',
+            Script: 'feverrun_my_scripts/jd_lzkj_10020_jgkcq.js',
+            ListenEnv: [
+                'jd_lzkj_10020_jgkcq_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10054上上签',
+            Script: 'feverrun_my_scripts/jd_lzkj_10054_ssq.js',
+            ListenEnv: [
+                'jd_lzkj_10054_ssq_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10023日历签到',
+            Script: 'feverrun_my_scripts/jd_lzkj_10023_rlqd.js',
+            ListenEnv: [
+                'jd_lzkj_10023_rlqd_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10047盖楼有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10047_glyl.js',
+            ListenEnv: [
+                'jd_lzkj_10047_glyl_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10058店铺礼包',
+            Script: 'feverrun_my_scripts/jd_lzkj_10058_dplb.js',
+            ListenEnv: [
+                'jd_lzkj_10058_dplb_activityId',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10079积分兑换',
+            Script: 'feverrun_my_scripts/jd_lzkj_10079_jfdh.js',
+            ListenEnv: [
+                'jd_lzkj_10079_jfdh_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10026积分抽奖',
+            Script: 'feverrun_my_scripts/jd_lzkj_10026_jfcj.js',
+            ListenEnv: [
+                'jd_lzkj_10026_jfcj_Ids',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10043分享有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10043_fxyl.js',
+            ListenEnv: [
+                'jd_lzkj_10043_fxyl_activityId',
+            ],
+            TimeOut: 0,
+            Interval: 0,
+            RunPanel: [0],
+            Disable: false,
+        },
+        {
+            Name: '【保护环境】lzkj_10024加购有礼',
+            Script: 'feverrun_my_scripts/jd_lzkj_10024_jgyl.js',
+            ListenEnv: [
+                'jd_lzkj_10024_jgyl_activityId',
             ],
             TimeOut: 0,
             Interval: 0,
