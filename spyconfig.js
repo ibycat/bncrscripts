@@ -3,7 +3,7 @@ let RspyList = {
     SpyList: [
     
         {
-            Name: '【保护环境】CJ组队瓜分',
+           1 Name: '【保护环境】CJ组队瓜分',
             Script: 'feverrun_my_scripts/jd_cjzdgf.js',
             ListenEnv: [
                 'jd_cjhy_activityId',
@@ -14,7 +14,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】微定制',
+          2  Name: '【保护环境】微定制',
             Script: 'feverrun_my_scripts/jd_wdz.js',
             ListenEnv: [
                 'jd_wdz_activityId',
@@ -25,7 +25,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】微定制-开福袋',
+         3   Name: '【保护环境】微定制-开福袋',
             Script: 'feverrun_my_scripts/jd_wdz_openLuckBag.js',
             ListenEnv: [
                 'jd_wdz_openLuckBag_activityId',
@@ -102,7 +102,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】LZ组队瓜分',
+          4  Name: '【保护环境】LZ组队瓜分',
             Script: 'feverrun_my_scripts/jd_zdjr.js',
             ListenEnv: [
                 'jd_zdjr_activityId',
@@ -366,7 +366,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas加购有礼',
+          6  Name: '【保护环境】lzkj_interactsaas加购有礼',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_jgyl.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_jgyl_activityId',
@@ -377,7 +377,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas盖楼有礼',
+          7  Name: '【保护环境】lzkj_interactsaas盖楼有礼',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_glyl.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_glyl_Ids',
@@ -388,7 +388,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas日历签到',
+           8 Name: '【保护环境】lzkj_interactsaas日历签到',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_rlqd.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_rlqd_Ids',
@@ -399,7 +399,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas签到',
+          9  Name: '【保护环境】lzkj_interactsaas签到',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_qrqd.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_qrqd_Ids',
@@ -410,7 +410,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas邀请好友入会',
+          10  Name: '【保护环境】lzkj_interactsaas邀请好友入会',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_yqhyrh.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_yqhyrh_activityId',
@@ -421,7 +421,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas关注店铺有礼',
+         11   Name: '【保护环境】lzkj_interactsaas关注店铺有礼',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_gzyl.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_gzyl_activityId',
@@ -432,7 +432,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境】lzkj_interactsaas关注商品有礼',
+          12  Name: '【保护环境】lzkj_interactsaas关注商品有礼',
             Script: 'feverrun_my_scripts/jd_lzkj_interactsaas_gzspyl.js',
             ListenEnv: [
                 'jd_lzkj_interactsaas_gzspyl_activityId',
@@ -443,7 +443,7 @@ let RspyList = {
             Disable: false,
         },
         {
-            Name: '【保护环境lzkj邀请入会有礼',
+          13  Name: '【保护环境lzkj邀请入会有礼',
             Script: 'feverrun_my_scripts/jd_lzkj_interact_yqrhyl.js',
             ListenEnv: [
                 'jd_lzkj_interact_yqrhyl_activityId',
@@ -468,7 +468,7 @@ let RspyList = {
             Name: '【保护环境】入会开卡领取礼包通用',
             Script: 'feverrun_my_scripts/jd_card_force.js',
             ListenEnv: [
-                'VENDER_ID',//export VENDER_ID="xxx"      入会开卡Id  export OPENCARD_BEAN="xx"   最低多少豆入会
+                'VENDER_ID',
             ],
             TimeOut: 0,
             Interval: 0,
